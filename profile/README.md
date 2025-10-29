@@ -40,11 +40,11 @@ We build, mentor, and innovate — transforming curiosity into creation through 
 ---
 
 ### 🌐 Connect with Us  
-- 🏠 [**QiForge.site**](https://qiforge.site)  
+- 🏠 [**QiForge.org**](https://qiforge.org)  
 - 🧑‍💻 Founder: [**Yogesh Kumar Mallik**](https://github.com/Yogesh-Kumar-Mallik-dev)  
 - ✉️ Email: `qiforgeofficial@gmail.com` *(or your preferred one)*  
 
 ---
 
-© 2025 **QiForge Organization**  
+© 2025 **QiForge Studio**  
 *Founded & Led by Yogesh Kumar Mallik*
