@@ -34,13 +34,13 @@ We build, mentor, and innovate — transforming curiosity into creation through 
 
 ### 🏅 Respected Lead & Active Members  
 
-| Role | Name | Description |
-|------|------|-------------|
-| 🧑‍💼 **Founder & Lead Developer** | <img src="https://avatars.githubusercontent.com/Yogesh-Kumar-Mallik-dev"  width="40" style="border-radius:50%;">[**Yogesh Kumar Mallik**](https://github.com/Yogesh-Kumar-Mallik-dev) | Founder and guiding force behind QiForge — visionary, creative strategist, and the driving energy that turns concepts into structured projects. |
-| 💻 **Core Developer & Fastest Learner** |<img src="https://avatars.githubusercontent.com/krishkr012"  width="40" style="border-radius:50%;"> [**Krish Kumar**](https://github.com/krishkr012) | The second most active developer in QiForge — known for his eagerness to learn, fast adaptation, and continuous contributions across multiple projects. |
-| 🌱 **Growing Members** | *List expanding soon...* | QiForge is open to students and creators willing to learn, collaborate, and contribute to real-world builds. |
+| Role | Member | Description |
+|------|---------|-------------|
+| 🧑‍💼 **Founder & Lead Developer** | <a href="https://github.com/Yogesh-Kumar-Mallik-dev"><img src="https://avatars.githubusercontent.com/Yogesh-Kumar-Mallik-dev" width="40" height="40" align="center" style="border-radius:50%;margin-right:8px;"> <b>Yogesh Kumar Mallik</b></a> | Founder and guiding force behind QiForge — visionary strategist, developer, and leader who forges creativity through code, innovation, and mentorship. |
+| 💻 **Core Developer & Fastest Learner** | <a href="https://github.com/krishkr012"><img src="https://avatars.githubusercontent.com/krishkr012" width="40" height="40" align="center" style="border-radius:50%;margin-right:8px;"> <b>Krish Kumar</b></a> | The second most active developer in QiForge — known for his eagerness to learn, quick adaptability, and consistent contributions across multiple projects. |
+| 🌱 **Growing Members** | *(Expanding soon...)* | QiForge welcomes passionate learners and creators who want to collaborate, build, and grow through real-world projects. |
 
-> *Every member at QiForge contributes to a larger vision — to forge creativity through code, collaboration, and courage.*  
+> *Every member at QiForge contributes to a larger vision — to forge creativity through code, collaboration, and courage.* 
 
 ---
 
