@@ -23,9 +23,12 @@ We build, mentor, and innovate — transforming curiosity into creation through 
 ### 🚀 Our Active Projects  
 | Project | Description | Status |
 |----------|--------------|---------|
-| **Hostel & Mess Management System** | Web system for college admin tasks under Code Falcon. | 🟢 In Progress |
-| **QiForge Website** | Official organizational site (frontend by Code Lead). | 🟢 Ongoing |
-| **Internal Dev Tools** | Small utilities to speed up our workflows. | 🧩 Development |
+| **Macbook-Model** | A clean front-end replica of Apple’s MacBook built entirely with HTML and CSS — demonstrating precision design and front-end creativity. | ✅ Completed |
+| **Student-Dashboard** | A functional dashboard interface for managing student-related information, built using HTML, CSS, and JavaScript. | ✅ Completed |
+| **QiForge Website** | The official website of QiForge — representing our student-led tech organization and its ongoing initiatives. | 🟡 Under Development |
+| **QiForge Admin** | The administrative panel powering QiForge’s internal operations and member management. | 🟡 In Progress |
+| **Hostel & Mess Management System** | A front-end web project developed under Code Falcon for college management tasks. | 🟢 Active Development |
+| **Smart Education App** | A comprehensive web-based platform designed to enhance learning through interactive tools and progress tracking. | 🟢 Active Development |
 
 ---
 
