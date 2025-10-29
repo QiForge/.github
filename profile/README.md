@@ -32,6 +32,18 @@ We build, mentor, and innovate — transforming curiosity into creation through 
 
 ---
 
+### 🏅 Respected Lead & Active Members  
+
+| Role | Name | Description |
+|------|------|-------------|
+| 🧑‍💼 **Founder & Lead Developer** | [**Yogesh Kumar Mallik**](https://github.com/Yogesh-Kumar-Mallik-dev) | Founder and guiding force behind QiForge — visionary, creative strategist, and the driving energy that turns concepts into structured projects. |
+| 💻 **Core Developer & Fastest Learner** | [**Krish Kumar**](https://github.com/krishkr012) | The second most active developer in QiForge — known for his eagerness to learn, fast adaptation, and continuous contributions across multiple projects. |
+| 🌱 **Growing Members** | *List expanding soon...* | QiForge is open to students and creators willing to learn, collaborate, and contribute to real-world builds. |
+
+> *Every member at QiForge contributes to a larger vision — to forge creativity through code, collaboration, and courage.*  
+
+---
+
 ### 🧠 Philosophy
 > “Discipline shapes creators. Creation defines leaders.”  
 >  
