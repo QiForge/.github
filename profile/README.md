@@ -34,13 +34,51 @@ We build, mentor, and innovate — transforming curiosity into creation through 
 
 ### 🏅 Respected Lead & Active Members  
 
-| Role | Member | Description |
-|------|---------|-------------|
-| 🧑‍💼 **Founder & Lead Developer** | <a href="https://github.com/Yogesh-Kumar-Mallik-dev"><img src="https://avatars.githubusercontent.com/Yogesh-Kumar-Mallik-dev" width="40" height="40" align="center" style="border-radius:50%;margin-right:8px;"> <b>Yogesh Kumar Mallik</b></a> | Founder and guiding force behind QiForge — visionary strategist, developer, and leader who forges creativity through code, innovation, and mentorship. |
-| 💻 **Core Developer & Fastest Learner** | <a href="https://github.com/krishkr012"><img src="https://avatars.githubusercontent.com/krishkr012" width="40" height="40" align="center" style="border-radius:50%;margin-right:8px;"> <b>Krish Kumar</b></a> | The second most active developer in QiForge — known for his eagerness to learn, quick adaptability, and consistent contributions across multiple projects. |
-| 🌱 **Growing Members** | *(Expanding soon...)* | QiForge welcomes passionate learners and creators who want to collaborate, build, and grow through real-world projects. |
+<div align="center">
 
-> *Every member at QiForge contributes to a larger vision — to forge creativity through code, collaboration, and courage.* 
+<table>
+<tr>
+<td align="center" width="180">
+  <a href="https://github.com/Yogesh-Kumar-Mallik-dev">
+    <img src="https://avatars.githubusercontent.com/Yogesh-Kumar-Mallik-dev" width="80" height="80" style="border-radius:50%;"><br>
+    <b>Yogesh Kumar Mallik</b>
+  </a>
+  <p><i>Founder & Lead Developer</i></p>
+</td>
+<td align="left">
+  Founder and guiding force behind QiForge — visionary strategist, developer, and leader who forges creativity through code, innovation, and mentorship.
+</td>
+</tr>
+
+<tr>
+<td align="center" width="180">
+  <a href="https://github.com/krishkr012">
+    <img src="https://avatars.githubusercontent.com/krishkr012" width="80" height="80" style="border-radius:50%;"><br>
+    <b>Krish Kumar</b>
+  </a>
+  <p><i>Core Developer & Fastest Learner</i></p>
+</td>
+<td align="left">
+  The second most active developer in QiForge — known for his eagerness to learn, quick adaptability, and consistent contributions across multiple projects.
+</td>
+</tr>
+
+<tr>
+<td align="center" width="180">
+  <img src="https://api.iconify.design/mdi:account-group.svg?color=gray" width="80" height="80"><br>
+  <b>Expanding soon...</b>
+  <p><i>Growing Members</i></p>
+</td>
+<td align="left">
+  QiForge welcomes passionate learners and creators who want to collaborate, build, and grow through real-world projects.
+</td>
+</tr>
+</table>
+
+</div>
+
+> *Every member at QiForge contributes to a larger vision — to forge creativity through code, collaboration, and courage.*
+
 
 ---
 
